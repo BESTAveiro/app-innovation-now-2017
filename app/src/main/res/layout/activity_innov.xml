@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingBottom="@dimen/activity_vertical_margin"
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:paddingTop="@dimen/activity_vertical_margin"
+                android:background="@drawable/logoinnov2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Innovation Now!"
+        android:id="@+id/textView"
+        android:layout_alignWithParentIfMissing="false"
+        android:gravity="center_horizontal"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_alignBottom="@+id/lampadavoltar"
+        android:layout_centerHorizontal="true"
+        android:textColor="#273e1f" />
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/textView"
+        android:id="@+id/scrollView"
+        android:fillViewport="false">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginTop="20dp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="O Innovation Now! surge na Universidade de Aveiro como um simpósio de partilha de ideias, conhecimentos e experiências entre profissionais e estudantes que vivem a inovação no seu dia-a-dia. O evento, organizado anualmente pelo BEST Aveiro, aborda diversas visões de profissionais da área, permitindo uma aproximação dos estudantes à realidade empresarial e ainda a oradores de renome nacional, especialistas em diversas áreas técnicas onde a inovação está diariamente presente."
+            android:id="@+id/textView2"
+            android:textSize="18dp"
+            android:textAlignment="center"
+            android:layout_above="@+id/imageView3"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+    </ScrollView>
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="87dp"
+        android:id="@+id/lampadavoltar"
+        android:layout_marginTop="0dp"
+        android:background="@drawable/logocomtransparencia"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:id="@+id/imageView5"
+        android:background="@drawable/words"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="26dp" />
+
+</RelativeLayout>

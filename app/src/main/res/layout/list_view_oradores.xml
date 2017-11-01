@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageButton
+        android:id="@+id/fotoOrador"
+        android:layout_width="360dp"
+        android:layout_height="360dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/nomeOrador"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/fotoOrador"
+        android:layout_alignTop="@+id/fotoOrador"
+        android:layout_alignLeft="@+id/fotoOrador"
+        android:layout_alignRight="@+id/fotoOrador"
+        android:textColor="@color/Black"
+        android:textSize="25dp"
+        android:layout_marginTop="280dp"
+        android:layout_marginLeft="25dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/apresentacaoOrador"
+        android:layout_alignBottom="@+id/fotoOrador"
+        android:layout_alignTop="@+id/fotoOrador"
+        android:layout_alignLeft="@+id/fotoOrador"
+        android:layout_alignRight="@+id/fotoOrador"
+        android:layout_marginTop="310dp"
+        android:layout_marginLeft="25dp"
+        android:textSize="18dp"
+        android:textColor="@color/colorWhite"
+        />
+</RelativeLayout>

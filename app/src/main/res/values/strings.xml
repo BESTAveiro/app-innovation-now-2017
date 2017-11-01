@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">InnovationNow</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="case_study">
+    Tema\n\n
+
+    Mobilidade Eléctrica, uma área incontornável e em expansão\n\n
+
+    Desafio\n\n
+
+    sabe mais <a href="http://bestaveiro.web.ua.pt/innovationnow/#atividades">aqui</a>
+    </string>
+    <string-array name="nomesOradores">
+        <item>Virgilio Bento</item>
+        <item>Rui Aguiar</item>
+        <item>Hugo Placido</item>
+        <item>Bruno Figueiredo</item>
+        <item>Pedro Madureira</item>
+        <item>Carlos Martins</item>
+        <item>Round Tables</item>
+        <item>Pitching Contest</item>
+        <item>Discussion Groups</item>
+        <item>Showroom</item>
+        <item>Cocktail Network</item>
+
+    </string-array>
+    <string-array name="titulosOradores">
+        <item>Titulo por Definir</item>
+        <item>Innovation on the Digital Society: Old Stuff!</item>
+        <item>BITalino: From a Paper Towel to the World</item>
+        <item></item>
+        <item>Immunotherapies for life-threatening bacterial infections</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="descricaoOradores">
+        <item>Virgílio Bento is the author of more than 40 research works in the field of technology. He sought to develop technologies that were capable of exploring the way that humans rehabilitate and, thus, during his PhD in Electronic Engineering, Virgílio developed SWORDPhoenix, a first digital therapy used in physical rehabilitation. He later founded SWORDHealth, completely changing healthcare through the development of digital therapists. He founded Findster, a GPS tracking system for animals, used in more than 70 countries around the world, and took part in the most important MedTech conferences.</item>
+        <item>Rui Aguiar is an university Professor and was born and raised in Porto. At the age of 18, he moved to Aveiro. When he was still a student, he began research in major cooperation initiatives between academia and industry. He is currently a professor in the Department of Electronics, Telecommunications and Informatics of the University of Aveiro and researcher in the Telecommunications Institute. Rui Aguiar was nominated as the first portuguese person ever to lead the Networld2020 European Technology Platform (ETP), which is an european organization that dedicates itself to the structuring of research in communications.</item>
+        <item>Hugo Plácido da Silva is a researcher at the IT - Instituto de Telecomunicações and is one of the co-founders of PLUX – Wireless Biosignals, which is a technology-based company operating in the field of medical devices. He is very passionate about his work and more recently, has been dedicated to the project BITalino, a tool that is revolutionizing teaching, researching and prototyping with biomedical sensors. His interest areas include innovation, system engineering, physiological computing, biosignals, signal processing, and pattern recognition.</item>
+        <item>Dr. Bruno Figueiredo has a Ph.D. in Chemical Engineering and is a Co-founder and CSO of Graphenest, a nanotechnology start-up that seeks to manufacture and distribute low-cost, high-quality graphene using an innovative process. Dr. Bruno Figueiredo\'s training gave him the skills to solve complex problems related to chemical reactions and separation methods. His success lead to recognition by the renowned journal Forbes, which placed him on their 30 Under 30 Europe list, in the \"Industry\" category.</item>
+        <item>Dr. Pedro Madureira has a bachelor degree in Biochemistry from Faculty of Sciences at the University of Porto and a Ph.D. in Biomedical Sciences from the Abel Salazar\’s Institute of Biomedical Sciences. His research focuses on the discovery of immunosuppressive molecules excreted by pathogenic bacteria, more specifically on what role virulence-associated immunomodulatory proteins (VIP) play in the host-pathogenic interactions that are responsible for the high susceptibility of neonates to bacterial sepsis. Dr. Pedro Madureira\’s research has already led to the development of a vaccine that\’s waiting for approval before moving on to human clinical trials. Paralleled to his research, Dr. Pedro Madureira has founded Immunethep, which consists of a biotech company that looks to develop and commercialize immunomodulatory products.</item>
+        <item>TBK</item>
+        <item>The concept of Round Table consists of a space for discussion between company representatives, students and entities from the university with the purpose of bringing together our three stakeholders and discussing a certain topic related to scientific and technological innovation .</item>
+        <item>This session consists of a competition where participants will have to develop a brief presentation about an idea, solving a challenge. The main purpose of the session is to challenge participants and their pitching skills. </item>
+        <item>In this session, the participants will have the chance to discuss some themes related to innovation and how some companies had success in the last years by innovating. </item>
+        <item>This session consists of a space open to all the academic community where the company can demonstrate an innovative product or service. Within this session, the company will also have the chance to present itself regarding the field in which it is operating, in the form of a pitch. </item>
+        <item>After the showroom, a cocktail network will happen, where partners, companies and speakers can be present, giving the opportunity for participants to communicate with everyone, in a more informal way. </item>
+    </string-array>
+</resources>

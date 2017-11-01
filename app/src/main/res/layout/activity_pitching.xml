@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:tools="http://schemas.android.com/tools"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingBottom="@dimen/activity_vertical_margin"
+                    android:paddingLeft="@dimen/activity_horizontal_margin"
+                    android:paddingRight="@dimen/activity_horizontal_margin"
+                    android:paddingTop="@dimen/activity_vertical_margin"
+        >
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="fitCenter"
+            android:id="@+id/lampadavoltar"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/logoinnov2" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="A Microsoft vem ao Innovation Now! 2016 à procura de talento jovem... Queres mostrar o que vales?  Participa no concurso de pitching da Microsoft no dia 3 de novembro!  A avaliação será realizada pela Microsoft e o concurso será aberto a todos os participantes do evento e terá como objetivo que os alunos a concurso mostrem o seu lado empreendedor."
+            android:id="@+id/textView12"
+            android:layout_below="@+id/textView14"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="42dp"
+            android:textSize="25dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Microsoft Pitching Contest"
+            android:id="@+id/textView14"
+            android:textSize="33dp"
+            android:textColor="#273e1f"
+            android:textStyle="bold"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_toEndOf="@+id/image3"
+            android:layout_toRightOf="@+id/image3" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView14"
+            android:src="@drawable/micro"
+            android:layout_below="@+id/textView12"
+            android:layout_centerHorizontal="true"/>
+
+        <ImageButton
+            android:layout_width="50dp"
+            android:layout_height="87dp"
+            android:id="@+id/image3"
+            android:background="@drawable/logocomtransparencia"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+</ScrollView>

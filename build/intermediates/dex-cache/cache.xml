@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8d0643e8154ad58406d9108b62ad08efe4191bf0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d593f92a6cfe05f1d0b81534c2a7321ca2659fd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_8e17074113860b2e27266ba6b03422c3aea1608b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/205bd429ad14d77662ccf7e092cf6d3fc1d3b1cc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4bbfe92c7303ecaa4f9c8e7c24eed88e25ea07c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/e6c1e2d6e39a880b8b5cf576675ff1426c639049/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c8d1131ad610b2c94d2542d64cdedcc0baa15ecd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8d0643e8154ad58406d9108b62ad08efe4191bf0/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.1.1_0eb2bd66a58f95c01bed0e3b1fddcc25c902b183/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/84748007c7c3f95669771e9912c369c77279aadc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="81d41e53c215976ce172b9f61ef1e8fc2d67cf79">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fc4ff40ebe2ab3a07891c4473a6d3a5e36dd8129/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/1450b3a00ec9a9e2ea6d2981448b531dfd7e46d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_15cd5d24d235d8f3531f1b42c539112a63695d37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/161476caaae24d2ce71c8f54e06614b6c519fea0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73b8a2de3e3854878290d0eaf8fa2621838e4536/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8d867621e3934ad00baa218b3d8ed7f04224fbb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8ed59e0a2351c19459c17e5521b3d3eb7aadf64b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfebc37427319da12ca4aa018c180284bdd656ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/3402b7a2a464d279e311a8291c19dffc560b5ab2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cfbfd3ec45cff7a827418e3714ef7fdbe89d0c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8f84243576b5472740a8141e1d37d6a2c5b8f5fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f4c9c07cd471584f4bf312b53b72178f7a22653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.7.4/b8f38a249116b66d804a5ca2b14a3459b7913a94/jackson-core-2.7.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b8f38a249116b66d804a5ca2b14a3459b7913a94">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.7.4_e9b5a80c80e275b3fca02b043f6b431c0f042ca8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.dropbox.core/dropbox-core-sdk/2.1.1/786a91e07e28575967a2a1656dd4eaaff10587fb/dropbox-core-sdk-2.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="786a91e07e28575967a2a1656dd4eaaff10587fb">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/dropbox-core-sdk-2.1.1_715f315b5fe9d32b5269165de1e814cbd9fcaf25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4369294e489e0095128b409b93124eb918f8c9e">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5935997c9d6342da7a235d5654877ae5193df1a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_f0cb15fa20947e07369d4ea2e872e73adf7941b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/f56113da24be6c039a520632f05d259b6245b3b1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27a4819dc46cfbdfa14a5561cd7843d9bf6d374c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/54e6ad9e0bb8147f70c5a64db51e40e688d964d9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d228b2ad793bc862fa746364f39bd44b36cb315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/6c9b1a30602b66ffab3a19861063a2fb1014b658/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_974cfff2942184da20ad781010f4c548558e349e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/8f844fdd92f56c99af991ba047338dbfac8ab718/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d913f5410b63138fe0f97895925441a877b2d9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.1.1_e719376c45172c6e8000552227ba276202ebecd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/0b4bf2eb683adcd47c97268ffa1c5e7c23b8005a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f47bf50c797b49cd915f5cf1fcaf00d8e362f247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/diego/.android/build-cache/577671566f85edc06993db4aa32108d1387df6b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/diego/Workspace/BEST/app-innovation-now-2017/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1660f8164be5466099b07a1ba3edfc7f50f400ff/classes.dex" />
+    </item>
+
+</items>

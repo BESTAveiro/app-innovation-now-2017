@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MenuButtons">
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonfotos"
+        android:background="@mipmap/fotos"
+        android:layout_marginLeft="16dp"
+        android:layout_alignTop="@+id/buttonatividades"
+        android:layout_toRightOf="@+id/buttonatividades"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonhorario"
+        android:background="@mipmap/horario"
+        android:layout_marginBottom="38dp"
+        android:layout_above="@+id/buttonparceiros"
+        android:layout_alignLeft="@+id/buttonfotos"
+        android:layout_alignStart="@+id/buttonfotos"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttoninnov"
+        android:background="@mipmap/lampada"
+        android:layout_alignTop="@+id/buttonhorario"
+        android:layout_toLeftOf="@+id/buttonbest"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonparceiros"
+        android:background="@mipmap/parceiros"
+        android:layout_centerVertical="true"
+        android:layout_alignTop="@+id/buttonatividades"
+        android:layout_alignLeft="@+id/buttoninnov"
+        android:layout_alignStart="@+id/buttoninnov"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonatividades"
+        android:background="@mipmap/atividades"
+        android:scaleType="center"
+        android:adjustViewBounds="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/buttonbest"
+        android:background="@mipmap/best"
+        android:layout_alignTop="@+id/buttonhorario"
+        android:layout_alignLeft="@+id/buttonatividades"
+        android:layout_alignStart="@+id/buttonatividades"
+        android:layout_centerHorizontal="true"/>
+
+
+</RelativeLayout>

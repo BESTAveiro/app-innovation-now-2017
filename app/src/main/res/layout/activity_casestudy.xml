@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorDarkGrey"
+    style="@style/generalnotitle">
+    <!--<ImageView-->
+    <!--android:id="@+id/fotoOrador"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="400dp"-->
+    <!--tools:layout_editor_absoluteY="0dp"-->
+    <!--tools:layout_editor_absoluteX="0dp" />-->
+
+    <ImageView
+        android:id="@+id/fotoOrador2"
+        android:layout_width="360dp"
+        android:layout_height="360dp"
+        android:layout_marginTop="0dp"
+        android:layout_gravity="center"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:id="@+id/scrollView2">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <View
+                android:id="@+id/ViewTranslucid"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                />
+            <View
+                android:id="@+id/greyarea2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginTop="365dp"
+                android:background="@color/colorDarkGrey"/>
+            <ImageView
+                android:layout_width="360dp"
+                android:id="@+id/base2"
+                android:layout_height="360dp"
+                android:layout_marginTop="70dp"
+                android:src="@drawable/base_orador"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/NomeDoOrador2"
+                android:textAlignment="center"
+                android:textColor="@color/Black"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:layout_marginTop="290dp"/>
+
+            <TextView
+                android:id="@+id/TituloOrador2"
+                android:layout_below="@+id/NomeDoOrador2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="23dp"
+                android:textColor="@color/colorWhite"
+                android:textAlignment="center"
+                android:gravity="center"
+                />
+
+            <TextView
+                android:id="@+id/TextoOrador2"
+                android:layout_below="@+id/greyarea2"
+                android:textAlignment="center"
+                android:textSize="17dp"
+                android:textColor="@color/colorWhite"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorDarkGrey"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="15dp"
+                android:layout_below="@id/TextoOrador2" />
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

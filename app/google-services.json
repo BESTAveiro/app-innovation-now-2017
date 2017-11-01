@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "96943909059",
+    "firebase_url": "https://innovation-now-2016.firebaseio.com",
+    "project_id": "innovation-now-2016",
+    "storage_bucket": "innovation-now-2016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96943909059:android:34b44d24a97b8a34",
+        "android_client_info": {
+          "package_name": "com.example.bestaveiro.innovationnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96943909059-2kv16uvkoiiqtk2a05j0c68qa882dt6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfU6MQR9jCf39F2TashOkNYtF3gfMnukI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
