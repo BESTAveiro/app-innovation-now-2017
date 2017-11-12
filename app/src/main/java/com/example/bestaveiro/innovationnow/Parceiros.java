@@ -22,6 +22,7 @@ public class Parceiros extends AppCompatActivity {
 
     public void gotomirtiflor(View view) { goToUrl("https://pt-pt.facebook.com/Mirtiflor-745004355521875/");    }
 
+    public void gotodiatosta (View view) { goToUrl("http://diatosta.pt/pt/");   }
 
 
     public void gotoua(View view) {
